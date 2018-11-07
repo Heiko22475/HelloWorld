@@ -3,6 +3,8 @@ My Poem
 Purple
 Pink 
 Orange 
+Yellow
+Green 
 Blue 
 Red 
 
